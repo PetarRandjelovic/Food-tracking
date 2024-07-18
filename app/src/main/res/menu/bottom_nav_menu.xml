@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/categoryViewID"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="dneviPlan" />
+    <item
+        android:id="@+id/filterViewID"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="kalendar" />
+    <item
+        android:id="@+id/profilID"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="profil" />
+
+    <item
+        android:id="@+id/planID"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="plan" />
+</menu>
